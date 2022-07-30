@@ -6,3 +6,4 @@ flask_login
 flask_mail
 pillow
 itsdangerous==2.0.1
+flask_wtf
